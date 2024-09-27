@@ -5,7 +5,7 @@ A Pokedex application built with React.js and React DOM that allows users to exp
 ## Features
 
 - **Dynamic Pokémon Listing**: Fetches and displays a list of Pokémon from the Pokémon API.
-- **Detailed Pokémon View**: Click on any Pokémon to view detailed information, including abilities, types, and stats.
+- **Detailed Pokémon View**: Click on any Pokémon to view detailed information, including height, weight & types.
 - **Custom Routing**: Utilizes React Router for navigation between the home page and detailed Pokémon pages.
 - **State Management**: Implements custom state management for handling Pokémon data and user interactions.
 
